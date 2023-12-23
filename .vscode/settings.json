@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "cyw43_arch.h": "c",
+    "hog_host_test.h": "c"
+  }
+}
